@@ -1,2 +1,2 @@
 # project
-este es un rpoyecto de prueba con git
+este es un proyecto de prueba con git
